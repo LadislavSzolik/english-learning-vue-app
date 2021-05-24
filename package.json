@@ -1,0 +1,23 @@
+{
+  "name": "english-learning-vue-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LadislavSzolik/english-learning-vue-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LadislavSzolik/english-learning-vue-app/issues"
+  },
+  "homepage": "https://github.com/LadislavSzolik/english-learning-vue-app#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.11.14"
+  }
+}
