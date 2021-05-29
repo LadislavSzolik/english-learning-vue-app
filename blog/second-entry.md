@@ -1,6 +1,6 @@
 
       ---
-      title: Easy makes more
+      title: Easy makes more some change
       excerpt: Making things easy to do incentives to do them more.
       cover: E &gt;
       ---
