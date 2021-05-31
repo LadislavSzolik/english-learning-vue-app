@@ -1,5 +1,5 @@
 ---
-title: What do I need for a career change?
+title: What do I need for a career change????
 excerpt: Years back I had few assumptions about changing my career. I revisited and evaluated those assumptions.
 date: 2021-02-13
 image: /assets/images/articles/article_3.svg
