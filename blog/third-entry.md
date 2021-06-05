@@ -1,3 +1,7 @@
-This file was empty
+---
 
-but now you got a new content :) 
+title: A rainy day
+
+---
+
+Today it is raining a lot.
