@@ -1,7 +1,7 @@
 ---
-title: Awesome1123e44adfsa
+title: My blog entry
 ---
 
-# let's start 
 
-this is a start of something new!!!
+
+- this is a start of a paragraph.
