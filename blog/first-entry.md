@@ -3,6 +3,8 @@ title: My blog entry
 ---
 
 testing new markdown writer
+
+ - [ ] todo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjE3ODg1OF19
+eyJoaXN0b3J5IjpbMTExMTA0NjYzNywxNzc2MTc4ODU4XX0=
 -->
